@@ -36,28 +36,28 @@ The exploratory data analysis (EDA) phase involved:
 
 This project is implemented using Python, making use of many robust modules to efficiently handle data processing, visualization, and statistical modeling. Below is a more comprehensive analysis:
 
-## 1.*Data Exploration and Cleaning Process
+## 1.Data Exploration and Cleaning Process
 * Initial data exploration: Assessing data quality, identifying missing values, understanding feature distribution.
 * Data cleaning: Using Pandas, handling missing data, correcting data types, addressing outliers.
 * Techniques: Data transformation, normalization, standardization for dataset preparation.
 
-## 2.*Data Analysis Visualization
+## 2.Data Analysis Visualization
 * Utilizes Matplotlib and Seaborn for plot creation.
 * Uses histograms, box plots, scatter plots, bar charts.
 * Implements advanced visualizations like heatmaps for correlation matrices and pair plots for multivariate analysis.
 
 ## 3. Statistical and Machine Learning Modeling and Forecasting
 
-**3.1 Statistical Models**:
+**Statistical Models**:
     The project leverages `Statsmodels` for comprehensive statistical modeling. Time series analysis, particularly using ARIMA/SARIMA models, plays a central role in forecasting future demands based on historical data. These models are chosen for their ability to account for trends, seasonality, and autocorrelation in time series data.
     Model diagnostics and validation are rigorously performed to ensure the accuracy of these models. This involves analyzing residuals, checking fit statistics, and evaluating predictive accuracy through performance metrics like RMSE (Root Mean Square Error) and MAE (Mean Absolute Error).
 
-**3.2 Machine Learning Models**:
+**Machine Learning Models**:
     In addition to statistical models, the project implements machine learning techniques using libraries such as `scikit-learn` for more dynamic predictions. Models like Random Forest, Gradient Boosting, and possibly neural networks are used to capture complex nonlinear relationships in the data.
     These models are trained using historical data, with features engineered from the datasets to improve predictive performance. Hyperparameter tuning is conducted using methods like Grid Search or Random Search to optimize the models.
     The effectiveness of the machine learning models is also assessed through cross-validation and performance metrics, ensuring that the models generalize well to new, unseen data.
 
-**3.3 Integration of Models**:
+**Integration of Models**:
     The project may also explore ensemble methods to combine the predictions from both statistical and machine learning models, aiming to leverage the strengths of each approach to enhance overall forecast accuracy.
     The integration is done in a manner that the output from one model can be used as an input to another, or by averaging predictions from multiple models to reduce variance and bias.
 
