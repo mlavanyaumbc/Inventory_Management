@@ -36,17 +36,17 @@ The exploratory data analysis (EDA) phase involved:
 
 This project is implemented using Python, making use of many robust modules to efficiently handle data processing, visualization, and statistical modeling. Below is a more comprehensive analysis:
 
-##### 1.Data Exploration and Cleaning Process
+#### 1.Data Exploration and Cleaning Process
 * Initial data exploration: Assessing data quality, identifying missing values, understanding feature distribution.
 * Data cleaning: Using Pandas, handling missing data, correcting data types, addressing outliers.
 * Techniques: Data transformation, normalization, standardization for dataset preparation.
 
-## 2.Data Analysis Visualization
+#### 2.Data Analysis Visualization
 * Utilizes Matplotlib and Seaborn for plot creation.
 * Uses histograms, box plots, scatter plots, bar charts.
 * Implements advanced visualizations like heatmaps for correlation matrices and pair plots for multivariate analysis.
 
-## 3. Statistical and Machine Learning Modeling and Forecasting
+#### 3. Statistical and Machine Learning Modeling and Forecasting
 
 **Statistical Models**:
     The project leverages `Statsmodels` for comprehensive statistical modeling. Time series analysis, particularly using ARIMA/SARIMA models, plays a central role in forecasting future demands based on historical data. These models are chosen for their ability to account for trends, seasonality, and autocorrelation in time series data.
