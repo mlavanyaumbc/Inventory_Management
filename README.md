@@ -13,8 +13,11 @@ The dataset used for this research comprises historical sales data that encompas
 ## Source of Data: 
 
 Company Name : Charm City Gold & Diamonds
+
 Address : Hanover, MD 21076, 7000 Arundel Mills Cir space 167, Charm City, Gold and Diamond
+
 Data Format : .XLS Format
+
 Size : 5 years’ data (app. 13,000 Rows)
 
 ## Exploratory Data Analysis
