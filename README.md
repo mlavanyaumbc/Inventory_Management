@@ -36,7 +36,7 @@ The exploratory data analysis (EDA) phase involved:
 
 This project is implemented using Python, making use of many robust modules to efficiently handle data processing, visualization, and statistical modeling. Below is a more comprehensive analysis:
 
-## 1.Data Exploration and Cleaning Process
+##### 1.Data Exploration and Cleaning Process
 * Initial data exploration: Assessing data quality, identifying missing values, understanding feature distribution.
 * Data cleaning: Using Pandas, handling missing data, correcting data types, addressing outliers.
 * Techniques: Data transformation, normalization, standardization for dataset preparation.
