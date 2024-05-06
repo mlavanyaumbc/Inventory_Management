@@ -93,6 +93,9 @@ The final analysis includes:
 
 ## Results
 The models provided reliable sales forecasts which were translated into actionable inventory metrics. The outcomes are visualized in several plots and tables to demonstrate the forecast accuracy and inventory recommendations for each product category.
+![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/6c7ac12f-d30a-46f8-a614-565349e95b02)
+![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/11e0670c-b46d-4b02-b841-7e4535ad8789)
+
 
 ## Conclusions
 The predictive models and inventory calculations deliver valuable insights for effective inventory management. By applying these methodologies, businesses can ensure optimal inventory levels that align with future sales forecasts, reducing the costs associated with excess inventory and stockouts.
