@@ -1,4 +1,4 @@
-# Inventory_Management
+# Inventory Management for Business Growth
 
 ## Abstract
 The objective of this project is to predict the inventory requirements for different product categories in the year 2024. The project intends to forecast future sales and calculate important inventory indicators, such as Economic Order Quantity (EOQ), Safety Stock, Reorder Points, and Average Inventory levels, by analyzing previous sales data. The objective is to enhance inventory management and save expenses while ensuring enough stock levels to satisfy customer demands.
@@ -10,7 +10,7 @@ The primary objective of this project is to utilize statistical models in order 
 ## About Data
 The dataset used for this research comprises historical sales data that encompasses last five years from 2019 to 2023. The dataset comprises daily transaction records for several item categories, Material categories , detailing the sales volume, sales price, and transaction date and total sale. This dataset enables in-depth time-series analysis for predicting sales patterns for 2024 year sales.
 
-## Source of Data: 
+## Source of Data
 
 Company Name : Charm City Gold & Diamonds
 
@@ -23,7 +23,7 @@ Size : 5 years’ data (app. 13,000 Rows)
 ![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/98654daf-2992-4838-8c48-6da9a50182c4)
 
 
-## Research Questions:
+## Research Questions
 
 #### 1. Which Machine Learning models are most effective for analyzing jewelry sales data and predicting future demand patterns?
 Using the SARIMA models, our forecasts based on historical sales data showed RMSE (Root Mean Square Error) of 5176.70 , MAE
