@@ -95,6 +95,10 @@ The final analysis includes:
 The models provided reliable sales forecasts which were translated into actionable inventory metrics. The outcomes are visualized in several plots and tables to demonstrate the forecast accuracy and inventory recommendations for each product category.
 ![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/6c7ac12f-d30a-46f8-a614-565349e95b02)
 ![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/11e0670c-b46d-4b02-b841-7e4535ad8789)
+![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/31337ab4-5c66-46b8-b444-dc59d8a5e2dc)
+![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/281ae066-70b2-4b13-84f6-8cd0a72cad11)
+
+
 
 
 ## Conclusions
