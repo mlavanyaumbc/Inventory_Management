@@ -1,4 +1,4 @@
-# Inventory_Management
+# Inventory Management for Business Growth
 
 ## Abstract
 The objective of this project is to predict the inventory requirements for different product categories in the year 2024. The project intends to forecast future sales and calculate important inventory indicators, such as Economic Order Quantity (EOQ), Safety Stock, Reorder Points, and Average Inventory levels, by analyzing previous sales data. The objective is to enhance inventory management and save expenses while ensuring enough stock levels to satisfy customer demands.
@@ -10,7 +10,7 @@ The primary objective of this project is to utilize statistical models in order 
 ## About Data
 The dataset used for this research comprises historical sales data that encompasses last five years from 2019 to 2023. The dataset comprises daily transaction records for several item categories, Material categories , detailing the sales volume, sales price, and transaction date and total sale. This dataset enables in-depth time-series analysis for predicting sales patterns for 2024 year sales.
 
-## Source of Data: 
+## Source of Data
 
 Company Name : Charm City Gold & Diamonds
 
@@ -20,7 +20,10 @@ Data Format : .XLS Format
 
 Size : 5 years’ data (app. 13,000 Rows)
 
-## Research Questions:
+![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/98654daf-2992-4838-8c48-6da9a50182c4)
+
+
+## Research Questions
 
 #### 1. Which Machine Learning models are most effective for analyzing jewelry sales data and predicting future demand patterns?
 Using the SARIMA models, our forecasts based on historical sales data showed RMSE (Root Mean Square Error) of 5176.70 , MAE
@@ -51,7 +54,7 @@ The exploratory data analysis (EDA) phase involved:
 - Employed heatmaps to investigate the associations between various factors in the dataset.
 - Presented summary statistics for sales data to analyze measures of central tendency and dispersion.
 
-## Implimentation
+## Implementation
 
 This project is implemented using Python, making use of many robust modules to efficiently handle data processing, visualization, and statistical modeling. Below is a more comprehensive analysis:
 
@@ -95,7 +98,15 @@ The final analysis includes:
 The models provided reliable sales forecasts which were translated into actionable inventory metrics. The outcomes are visualized in several plots and tables to demonstrate the forecast accuracy and inventory recommendations for each product category.
 ![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/6c7ac12f-d30a-46f8-a614-565349e95b02)
 ![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/11e0670c-b46d-4b02-b841-7e4535ad8789)
+![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/31337ab4-5c66-46b8-b444-dc59d8a5e2dc)
+![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/281ae066-70b2-4b13-84f6-8cd0a72cad11)
+
+
 
 
 ## Conclusions
 The predictive models and inventory calculations deliver valuable insights for effective inventory management. By applying these methodologies, businesses can ensure optimal inventory levels that align with future sales forecasts, reducing the costs associated with excess inventory and stockouts.
+
+## Dashboard
+![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/8f25f5e5-8394-4094-956b-b1740728d5bc)
+
