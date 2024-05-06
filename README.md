@@ -20,6 +20,20 @@ Data Format : .XLS Format
 
 Size : 5 years’ data (app. 13,000 Rows)
 
+## Research Questions:
+
+## 1. Which Machine Learning models are most effective for analyzing jewelry sales data and predicting future demand patterns?
+
+	Using the SARIMA models, our forecasts based on historical sales data showed RMSE (Root Mean Square Error) of 5176.70 , MAE (Mean Absolute Error) of 26798303.79, and R2 (R Squared score) of 0.733, indicating a medium level of accuracy in predicting future sales. Also,upon incorporating date-time variables tried Machine learning models like Random Forest model, Gradient Boosting ,XG Boosting, and some ensembling and stacking techniques to improve accuracy of predictions.
+
+## 2. How can clustering algorithms be utilized to group similar jewelry items together for efficient inventory management?
+
+	Clustering algorithms effectively grouped jewelry items into distinct categories that facilitated differentiated inventory management strategies. Clustering by sales volume and material type helped identify high-demand items requiring more dynamic stocking policies. This strategic grouping allowed for more precise inventory control, reducing overstock and understock by thereby optimizing overall inventory levels and reducing associated costs.
+
+## 3. How can inventory levels be optimized to ensure sufficient stock of high-demand items while minimizing excess inventory and costs?
+
+	Optimizing inventory levels for each item and material involves precise demand forecasting, strategic safety stock calculations, and timely reorder points. By utilizing advanced analytics and machine learning models, businesses can dynamically adjust inventory to meet consumer demand efficiently, thus minimizing costs and avoiding excess stock.
+
 ## Exploratory Data Analysis
 The exploratory data analysis (EDA) phase involved:
 - Visualizing sales trends over time to understand seasonal variations and demand patterns.
