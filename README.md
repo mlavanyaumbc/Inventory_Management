@@ -19,7 +19,8 @@ Address : Hanover, MD 21076, 7000 Arundel Mills Cir space 167, Charm City, Gold 
 Data Format : .XLS Format
 
 Size : 5 years’ data (app. 13,000 Rows)
-########![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/790e0179-aa8a-4e7a-99c7-a9fbd3cbc16b)
+
+![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/98654daf-2992-4838-8c48-6da9a50182c4)
 
 
 ## Research Questions:
