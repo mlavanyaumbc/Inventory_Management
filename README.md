@@ -1,7 +1,7 @@
 # Inventory Management for Business Growth
 
 ## Abstract
-The objective of this project is to predict the inventory requirements for different product categories in the year 2024. The project intends to forecast future sales and calculate important inventory indicators, such as Economic Order Quantity (EOQ), Safety Stock, Reorder Points, and Average Inventory levels, by analyzing previous sales data. The objective is to enhance inventory management and save expenses while ensuring enough stock levels to satisfy customer demands.
+The objective of this project is to predict total sales for 2024 year using 2019 - 2023 sales data and also to predict the inventory requirements for different product categories in the year 2024. The project intends to forecast future sales and calculate important inventory indicators, such as Economic Order Quantity (EOQ), Safety Stock, Reorder Points, and Average Inventory levels, by analyzing previous sales data. The objective is to enhance inventory management and save expenses while ensuring enough stock levels to satisfy customer demands.
 
 ## Idea
 The primary objective of this project is to utilize statistical models in order to properly forecast future inventory needs. By combining time-series forecasting with inventory management concepts, we guarantee that the firm may effectively plan for future demand without having excessive or insufficient stock of products.
