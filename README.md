@@ -36,8 +36,8 @@ Boosting ,XG Boosting, and some ensembling and stacking techniques to improve ac
  understock by thereby optimizing overall inventory levels and reducing associated costs.
 
 ## 3. How can inventory levels be optimized to ensure sufficient stock of high-demand items while minimizing excess inventory and costs?
-
-	Optimizing inventory levels for each item and material involves precise demand forecasting, strategic safety stock
+	
+ 	Optimizing inventory levels for each item and material involves precise demand forecasting, strategic safety stock
  calculations, and timely reorder points. By utilizing advanced analytics and machine learning models, businesses can
  dynamically adjust inventory to meet consumer demand efficiently, thus minimizing costs and avoiding excess stock.
 
