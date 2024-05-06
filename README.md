@@ -19,6 +19,8 @@ Address : Hanover, MD 21076, 7000 Arundel Mills Cir space 167, Charm City, Gold 
 Data Format : .XLS Format
 
 Size : 5 years’ data (app. 13,000 Rows)
+![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/790e0179-aa8a-4e7a-99c7-a9fbd3cbc16b)
+
 
 ## Research Questions:
 
@@ -103,3 +105,7 @@ The models provided reliable sales forecasts which were translated into actionab
 
 ## Conclusions
 The predictive models and inventory calculations deliver valuable insights for effective inventory management. By applying these methodologies, businesses can ensure optimal inventory levels that align with future sales forecasts, reducing the costs associated with excess inventory and stockouts.
+
+## Dashboard
+![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/8f25f5e5-8394-4094-956b-b1740728d5bc)
+
