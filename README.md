@@ -54,7 +54,7 @@ The exploratory data analysis (EDA) phase involved:
 - Employed heatmaps to investigate the associations between various factors in the dataset.
 - Presented summary statistics for sales data to analyze measures of central tendency and dispersion.
 
-## Implimentation
+## Implementation
 
 This project is implemented using Python, making use of many robust modules to efficiently handle data processing, visualization, and statistical modeling. Below is a more comprehensive analysis:
 
