@@ -100,6 +100,8 @@ The models provided reliable sales forecasts which were translated into actionab
 ![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/11e0670c-b46d-4b02-b841-7e4535ad8789)
 ![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/31337ab4-5c66-46b8-b444-dc59d8a5e2dc)
 ![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/281ae066-70b2-4b13-84f6-8cd0a72cad11)
+![image](https://github.com/mlavanyaumbc/Inventory_Management/assets/112786869/78197aa1-1ba1-4c08-aa87-6ab577d2e02b)
+
 
 
 
